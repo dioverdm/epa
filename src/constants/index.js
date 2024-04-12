@@ -14,7 +14,8 @@ export const navLinks = [
     title: "Productos",
   },
   {
-    id: "https://pogoos.com/",
+    id: "clients",
+    link: "https://pogoos.com/",
     title: "Clientes",
   },
 ];
