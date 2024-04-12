@@ -7,15 +7,15 @@ export const navLinks = [
   },
   {
     id: "features",
-    title: "Features",
+    title: "Características",
   },
   {
     id: "product",
-    title: "Product",
+    title: "Productos",
   },
   {
-    id: "clients",
-    title: "Clients",
+    link: "https://pogoos.com/",
+    title: "Clientes",
   },
 ];
 
@@ -30,7 +30,7 @@ export const features = [
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "100% Seguro",
     content:
       "We take proactive steps make sure your information and transactions are secure.",
   },
@@ -73,18 +73,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
+    title: "Usuarios activos",
     value: "3800+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Servidores",
+    value: "20+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Uso",
+    value: "2.4k",
   },
 ];
 
@@ -168,7 +168,7 @@ export const socialMedia = [
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.twitter.com/",
+    link: "https://www.twitter.com/@pogo_os",
   },
   {
     id: "social-media-4",
