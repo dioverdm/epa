@@ -53,7 +53,7 @@ export const feedback = [
     title: "Fundador y Lider",
     img: people01,
   }
-  {/*{
+  {/*
     id: "feedback-2",
     content:
       "Money makes your life easier. If you're lucky to have it, you're lucky.",
