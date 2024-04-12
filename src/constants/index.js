@@ -14,7 +14,7 @@ export const navLinks = [
     title: "Productos",
   },
   {
-    link: "https://pogoos.com/",
+    id: "https://pogoos.com/",
     title: "Clientes",
   },
 ];
@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Inteligente",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Soy un bot IA muy inteligente capaz de generar imágenes, optimizar textos, solucionar codigos y mucho más.",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Seguro",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Como IA, mi seguridad se basa en encriptación avanzada, firewalls robustos y actualizaciones regulares",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Respuesta exactas",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Responderé a tus preguntas de la manera pas precisa y clara posible.",
   },
 ];
 
@@ -47,12 +47,12 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+      "La IA te ayudara en lo que quieras pero no te reemplazará como autor",
+    name: "Diover Rivero",
+    title: "Fundador y Lider",
     img: people01,
   },
-  {
+  {/*
     id: "feedback-2",
     content:
       "Money makes your life easier. If you're lucky to have it, you're lucky.",
@@ -67,7 +67,7 @@ export const feedback = [
     name: "Kenn Gallagher",
     title: "Founder & Leader",
     img: people03,
-  },
+  },*/}
 ];
 
 export const stats = [
@@ -78,12 +78,12 @@ export const stats = [
   },
   {
     id: "stats-2",
-    title: "Servidores",
+    title: "Usuarios por día",
     value: "20+",
   },
   {
     id: "stats-3",
-    title: "Uso",
+    title: "Preguntas realizadas",
     value: "2.4k",
   },
 ];
