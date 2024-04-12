@@ -51,8 +51,8 @@ export const feedback = [
     name: "Diover Rivero",
     title: "Fundador y Lider",
     img: people01,
-  },
-  {/*
+  }
+  {/*{
     id: "feedback-2",
     content:
       "Money makes your life easier. If you're lucky to have it, you're lucky.",
@@ -90,19 +90,19 @@ export const stats = [
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "Enlaces útiles",
     links: [
       {
-        name: "Content",
-        link: "https://www.hoobank.com/content/",
+        name: "Donar",
+        link: "https://www.paypal.me/dioverdm",
       },
       {
-        name: "How it Works",
-        link: "https://www.hoobank.com/how-it-works/",
+        name: "Votar Top.gg",
+        link: "https://top.gg/",
       },
       {
-        name: "Create",
-        link: "https://www.hoobank.com/create/",
+        name: "Votar Botlist.me",
+        link: "https://botlist.me/",
       },
       {
         name: "Explore",
@@ -110,45 +110,45 @@ export const footerLinks = [
       },
       {
         name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
+        link: "https://pogoos.com/tos",
       },
     ],
   },
   {
-    title: "Community",
+    title: "Comunidad",
     links: [
       {
-        name: "Help Center",
-        link: "https://www.hoobank.com/help-center/",
+        name: "Discord",
+        link: "https://pogoos.com/discord",
       },
       {
-        name: "Partners",
-        link: "https://www.hoobank.com/partners/",
+        name: "Twitter",
+        link: "https://www.twitter.com/@pogo_os",
       },
       {
-        name: "Suggestions",
-        link: "https://www.hoobank.com/suggestions/",
+        name: "YouTube",
+        link: "https://www.youtube.com/@pogoos",
       },
       {
-        name: "Blog",
-        link: "https://www.hoobank.com/blog/",
+        name: "TikTok",
+        link: "https://www.tiktok.com/@pogo_os",
       },
       {
-        name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
+        name: "Instagram",
+        link: "https://www.instagram.com/",
       },
     ],
   },
   {
-    title: "Partner",
+    title: "Patrocinadores",
     links: [
       {
-        name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        name: "Pogo OS",
+        link: "https://www.pogoos.com/invite",
       },
       {
-        name: "Become a Partner",
-        link: "https://www.hoobank.com/become-a-partner/",
+        name: "Solar Hosting",
+        link: "https://solarhosting.cc",
       },
     ],
   },
